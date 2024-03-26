@@ -1,6 +1,6 @@
 package org.dependencyIPrinciple;
 
-public class Button{
+public class Button {
     private SwitchableDevice device;
     public Button (SwitchableDevice device) {
         this.device = device;
